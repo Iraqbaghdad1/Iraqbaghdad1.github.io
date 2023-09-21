@@ -1,0 +1,55 @@
+{
+  "portfolio": [
+    {
+      "sys": {"id": "1"},
+      "fields": {
+        "title": "Online Food Ordering and Delivery System",
+        "description": "An Online Food Ordering and Delivery System is a digital platform that allows customers to browse restaurant menus, place food orders, and have them delivered to their doorstep. It streamlines the process of ordering and managing food delivery services.",
+        "details": ["MySQL","Python", "Django"],
+        "github": "https://github.com/",
+        "web": "https://"
+      },
+      "img":{
+        "fields": {
+          "file": {
+            "url": "./public/img/food-delivery.gif"
+          }
+        }
+      }
+    },
+    {
+      "sys": {"id": "2"},
+      "fields": {
+        "title": "Tic-Tac-Toe Game",
+        "description": "A classic two-player paper-and-pencil game where players take turns marking 'X' and 'O' on a 3x3 grid. The objective is to form a line of three of your symbols horizontally, vertically, or diagonally, before your opponent does.",
+        "details": ["HTML5","CSS", "Bootstrap 4", "JS"],
+        "github": "https://github.com",
+        "web": "https://tic-tac-toe.com"
+      },
+      "img":{
+        "fields": {
+          "file": {
+            "url": "./public/img/tic.gif"
+          }
+        }
+      }
+    },
+    {
+      "sys": {"id": "3"},
+      "fields": {
+        "title": "Library Management System",
+        "description": "A Library Management System is a software application designed to efficiently manage the operations of a library. Its primary purpose is to streamline tasks such as cataloging, tracking book availability, managing user accounts, and handling library resources.",
+        "details": [ "Python", "mySQL"],
+        "github": "https://github.com/",
+        "web": "https:lib.com"
+      },
+      "img":{
+        "fields": {
+          "file": {
+            "url": "./public/img/lib.png"
+          }
+        }
+      }
+    }
+  ]
+}
